@@ -5,7 +5,7 @@
     "type": "module",
     "scripts": {
         "dev": "vite",
-        "build": "vite --host --port 8080",
+        "build": "vite build",
         "preview": "vite preview",
         "start": "npm run dev"
     },
