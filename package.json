@@ -10,8 +10,7 @@
         "start": "npm run dev"
     },
     "engines": {
-      "node": "6.11.1",
-      "npm": "10.8.1"
+      "node": "6.11.1"
     },
     "devDependencies": {
         "vite": "^5.4.8",
